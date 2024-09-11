@@ -1,0 +1,37 @@
+<mat-toolbar color="primary" *ngIf="!isLoginPage">
+  <button mat-icon-button (click)="drawer.toggle()">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span>TechsysLog - Sistema de Logística</span>
+
+  <span class="spacer"></span>
+
+  <!-- Avatar com Menu -->
+  <button mat-icon-button [matMenuTriggerFor]="menu">
+    <mat-icon>account_circle</mat-icon>
+  </button>
+  <mat-menu #menu="matMenu">
+    <button mat-menu-item (click)="logout()">Sair</button>
+  </mat-menu>
+</mat-toolbar>
+
+<mat-sidenav-container *ngIf="!isLoginPage">
+  <mat-sidenav #drawer mode="side" [(opened)]="drawerOpened" class="sidenav" [fixedInViewport]="true">
+
+    <!-- Seção de Pedidos -->
+    <mat-nav-list class="menu-items">
+      <h3>Pedidos</h3>
+      <mat-divider></mat-divider>
+      <a mat-list-item routerLink="/pedidos" (click)="drawer.toggle()">Listar Pedidos</a>
+      <a mat-list-item routerLink="/cadastrar-pedido" (click)="drawer.toggle()">Cadastrar Pedido</a>
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <div class="main-content container">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>
+
+<router-outlet *ngIf="isLoginPage"></router-outlet>

@@ -1,0 +1,7 @@
+<div class="modal-container">
+  <h2>Dados da Entrega</h2>
+  <p><strong>Numero do pedido:</strong> {{entrega.orderNumber}}</p>
+  <p><strong>Data de Entrega:</strong> {{ entrega.date | date:'dd/MM/yyyy, HH:mm' }}</p>
+
+  <button mat-button color="warn" (click)="fechar()">Fechar</button>
+</div>

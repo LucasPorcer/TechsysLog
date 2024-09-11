@@ -1,0 +1,17 @@
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\bin\Debug\net8.0\TechsysLog.Application.deps.json
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\bin\Debug\net8.0\TechsysLog.Application.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\bin\Debug\net8.0\TechsysLog.Application.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\bin\Debug\net8.0\TechsysLog.Common.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\bin\Debug\net8.0\TechsysLog.Domain.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\bin\Debug\net8.0\TechsysLog.Common.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\bin\Debug\net8.0\TechsysLog.Domain.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\obj\Debug\net8.0\TechsysLog.Application.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\obj\Debug\net8.0\TechsysLog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\obj\Debug\net8.0\TechsysLog.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\obj\Debug\net8.0\TechsysLog.Application.AssemblyInfo.cs
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\obj\Debug\net8.0\TechsysLog.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\obj\Debug\net8.0\TechsysL.8D12716A.Up2Date
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\obj\Debug\net8.0\TechsysLog.Application.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\obj\Debug\net8.0\refint\TechsysLog.Application.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\obj\Debug\net8.0\TechsysLog.Application.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Application\obj\Debug\net8.0\ref\TechsysLog.Application.dll

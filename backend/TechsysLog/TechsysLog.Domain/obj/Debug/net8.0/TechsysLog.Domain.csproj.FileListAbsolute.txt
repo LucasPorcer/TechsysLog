@@ -1,0 +1,11 @@
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\bin\Debug\net8.0\TechsysLog.Domain.deps.json
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\bin\Debug\net8.0\TechsysLog.Domain.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\bin\Debug\net8.0\TechsysLog.Domain.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\obj\Debug\net8.0\TechsysLog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\obj\Debug\net8.0\TechsysLog.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\obj\Debug\net8.0\TechsysLog.Domain.AssemblyInfo.cs
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\obj\Debug\net8.0\TechsysLog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\obj\Debug\net8.0\TechsysLog.Domain.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\obj\Debug\net8.0\refint\TechsysLog.Domain.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\obj\Debug\net8.0\TechsysLog.Domain.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Domain\obj\Debug\net8.0\ref\TechsysLog.Domain.dll

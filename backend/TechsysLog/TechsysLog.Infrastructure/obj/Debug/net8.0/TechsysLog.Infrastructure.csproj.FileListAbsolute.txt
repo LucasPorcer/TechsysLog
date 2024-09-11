@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\bin\Debug\net8.0\TechsysLog.Infrastructure.deps.json
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\bin\Debug\net8.0\TechsysLog.Infrastructure.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\bin\Debug\net8.0\TechsysLog.Infrastructure.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\bin\Debug\net8.0\TechsysLog.Domain.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\bin\Debug\net8.0\TechsysLog.Domain.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\obj\Debug\net8.0\TechsysLog.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\obj\Debug\net8.0\TechsysLog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\obj\Debug\net8.0\TechsysLog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\obj\Debug\net8.0\TechsysLog.Infrastructure.AssemblyInfo.cs
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\obj\Debug\net8.0\TechsysLog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\obj\Debug\net8.0\TechsysL.C22D1167.Up2Date
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\obj\Debug\net8.0\TechsysLog.Infrastructure.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\obj\Debug\net8.0\refint\TechsysLog.Infrastructure.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\obj\Debug\net8.0\TechsysLog.Infrastructure.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Infrastructure\obj\Debug\net8.0\ref\TechsysLog.Infrastructure.dll

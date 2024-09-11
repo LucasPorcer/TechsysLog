@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TechsysLog.API.props" />
+</Project>

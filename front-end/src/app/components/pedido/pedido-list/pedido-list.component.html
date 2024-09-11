@@ -1,0 +1,81 @@
+<h2>Lista de Pedidos</h2>
+
+<table mat-table [dataSource]="pedidos" class="mat-elevation-z8">
+
+ 
+
+  <!-- Número do Pedido Column -->
+  <ng-container matColumnDef="number">
+    <th mat-header-cell *matHeaderCellDef> Número do Pedido </th>
+    <td mat-cell *matCellDef="let pedido"> {{pedido.number}} </td>
+  </ng-container>
+
+  <!-- Descrição Column -->
+  <ng-container matColumnDef="description">
+    <th mat-header-cell *matHeaderCellDef> Descrição </th>
+    <td mat-cell *matCellDef="let pedido"> {{pedido.description}} </td>
+  </ng-container>
+
+  <!-- Valor Column -->
+  <ng-container matColumnDef="value">
+    <th mat-header-cell *matHeaderCellDef> Valor </th>
+    <td mat-cell *matCellDef="let pedido"> {{pedido.value | currency:'BRL'}} </td>
+  </ng-container>
+
+  <!-- Status Column -->
+  <ng-container matColumnDef="status">
+    <th mat-header-cell *matHeaderCellDef> Status </th>
+    <td mat-cell *matCellDef="let pedido">
+      <span class="status-pill" [ngClass]="getStatusClass(pedido.status)">{{ getOrderStatusLabel(pedido.status) }}</span>
+    </td>
+  </ng-container>
+
+   <!-- Visualizar Endereço Column -->
+  <ng-container matColumnDef="visualizarEndereco">
+    <th mat-header-cell *matHeaderCellDef>Endereço</th>
+    <td mat-cell *matCellDef="let pedido">
+      <button mat-icon-button (click)="visualizarEndereco(pedido)" matTooltip="Visualizar Endereço">
+        <mat-icon>location_on</mat-icon>
+      </button>
+    </td>
+  </ng-container>
+
+   <!-- Visualizar Entrega Column -->
+   <ng-container matColumnDef="visualizarEntrega">
+    <th mat-header-cell *matHeaderCellDef></th>
+    <td mat-cell *matCellDef="let pedido">
+      <button *ngIf="pedido.status === OrderStatusEnum.Entregue" mat-icon-button (click)="visualizarEntrega(pedido)" matTooltip="Visualizar Entrega">
+        <mat-icon>search</mat-icon>
+      </button>
+    </td>
+   </ng-container>
+
+
+  <!-- Ações Column -->
+  <ng-container matColumnDef="acao">
+    <th mat-header-cell *matHeaderCellDef> Ações </th>
+    <td mat-cell *matCellDef="let pedido">
+      <button mat-icon-button
+        [matTooltip]="pedido.status !== OrderStatusEnum.Entregue && pedido.status !== OrderStatusEnum.Cancelado ? 'Marcar como entregue' : ''"
+        (click)="marcarComoEntregue(pedido)"
+        [ngClass]="{
+          'entregar-botao': pedido.status !== OrderStatusEnum.Entregue && pedido.status !== OrderStatusEnum.Cancelado,
+          'disabled-botao': pedido.status === OrderStatusEnum.Entregue || pedido.status === OrderStatusEnum.Cancelado
+        }"
+        [disabled]="pedido.status === OrderStatusEnum.Entregue || pedido.status === OrderStatusEnum.Cancelado">
+  <mat-icon>local_shipping</mat-icon>
+</button>
+
+    </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+</table>
+
+<mat-paginator [length]="totalPedidos"
+               [pageSize]="pageSize"
+               [pageSizeOptions]="[10, 25, 50]"
+               (page)="paginacao($event)">
+</mat-paginator>

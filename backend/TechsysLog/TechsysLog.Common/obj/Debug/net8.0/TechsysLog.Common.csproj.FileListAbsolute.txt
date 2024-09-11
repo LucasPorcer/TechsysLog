@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\bin\Debug\net8.0\TechsysLog.Common.deps.json
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\bin\Debug\net8.0\TechsysLog.Common.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\bin\Debug\net8.0\TechsysLog.Common.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\bin\Debug\net8.0\TechsysLog.Domain.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\bin\Debug\net8.0\TechsysLog.Domain.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\obj\Debug\net8.0\TechsysLog.Common.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\obj\Debug\net8.0\TechsysLog.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\obj\Debug\net8.0\TechsysLog.Common.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\obj\Debug\net8.0\TechsysLog.Common.AssemblyInfo.cs
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\obj\Debug\net8.0\TechsysLog.Common.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\obj\Debug\net8.0\TechsysL.69DE5853.Up2Date
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\obj\Debug\net8.0\TechsysLog.Common.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\obj\Debug\net8.0\refint\TechsysLog.Common.dll
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\obj\Debug\net8.0\TechsysLog.Common.pdb
+C:\Users\lucas\Documents\Projects\Teste\backend\TechsysLog\TechsysLog.Common\obj\Debug\net8.0\ref\TechsysLog.Common.dll

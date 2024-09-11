@@ -1,0 +1,43 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.mat-toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.menu-items h3 {
+  padding-left: 16px;
+}
+
+.mat-divider {
+  margin-bottom: 16px;
+}
+
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.mat-dialog-container {
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.modal-container button {
+  margin: 0 auto;
+}
