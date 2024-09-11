@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gCRfoWV2xHU=",
+  "dgSpecHash": "LAEPH+hNwN0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

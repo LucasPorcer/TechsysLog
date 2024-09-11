@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "whGbWAATcWk=",
+  "dgSpecHash": "SugqZaykl2Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Common\\TechsysLog.Common.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Common\\TechsysLog.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

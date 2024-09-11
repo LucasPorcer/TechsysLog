@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechsysLog.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cda03e00dad2dc81f0abe8de52dfdc07f6eb63b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechsysLog.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechsysLog.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

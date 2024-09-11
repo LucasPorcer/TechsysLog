@@ -12,6 +12,12 @@ namespace TechsysLog.API.Controllers
         {
         }
 
+        /// <summary>
+        /// Este seria um comando que funciona como uma casa, sei que poderia ser feito a chamada para o ViaCEP diretamente do fornt-end, porém o acredito
+        /// que o tratamento de resiliencia de chamadas externas no backend acaba ficando mais facil.
+        /// </summary>
+        /// <param name="query"></param>
+        /// <returns></returns>
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(AddressResponseModel))]
         public async Task<IActionResult> GetAddress([FromQuery] GetAddressByCepCommand query)

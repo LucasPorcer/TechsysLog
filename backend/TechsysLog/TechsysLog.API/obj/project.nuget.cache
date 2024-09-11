@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A4V/a3Spkug=",
+  "dgSpecHash": "ETwF7vpMsqw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.API\\TechsysLog.API.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.API\\TechsysLog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

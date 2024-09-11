@@ -11,6 +11,11 @@ namespace TechsysLog.API.Controllers
         {
         }
 
+        /// <summary>
+        /// Comando para possivel criacao de usuario e senha
+        /// </summary>
+        /// <param name="command"></param>
+        /// <returns></returns>
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(CreateUserResponseDto))]
         public async Task<IActionResult> CreateUser([FromBody] CreateUserCommand command)

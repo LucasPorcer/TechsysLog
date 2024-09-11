@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Common\\TechsysLog.Common.csproj": {}
+    "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Common\\TechsysLog.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Common\\TechsysLog.Common.csproj": {
+    "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Common\\TechsysLog.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Common\\TechsysLog.Common.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Common\\TechsysLog.Common.csproj",
         "projectName": "TechsysLog.Common",
-        "projectPath": "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Common\\TechsysLog.Common.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Common\\TechsysLog.Common.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Common\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj"
+              "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj": {
+    "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj",
         "projectName": "TechsysLog.Domain",
-        "projectPath": "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Domain\\TechsysLog.Domain.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\Projects\\Teste\\backend\\TechsysLog\\TechsysLog.Domain\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\Projects\\TechsysLog\\backend\\TechsysLog\\TechsysLog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
